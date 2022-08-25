@@ -1,7 +1,7 @@
 ﻿CLONAR EL REPOSITORIO
 ----------------------------------------------
 
-git clone https://github.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022A.git
+git clone https://github.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022B.git
 
 
 
