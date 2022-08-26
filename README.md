@@ -1,5 +1,8 @@
 ![CIENCIA DE DATOS: Aprende los fundamentos de manera práctica](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022B/main/img/cara.png)
 
+![CIENCIA DE DATOS: Aprende los fundamentos de manera práctica](https://raw.githubusercontent.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022B/main/Calendario.png)
+
+
 # DATOS GENERALES
 
 - Lugar: UNI - CTIC
