@@ -1,4 +1,4 @@
-# VIDEOS DE LA SEMANA 1
+# VIDEOS DE LA CLASE 1
 
 Para poder visualizar el video debes iniciar sesión con tu cuenta de la UNI.
 
